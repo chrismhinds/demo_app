@@ -1,6 +1,8 @@
 == README
 
 # RoR demo app
+
+
 This is a demo for [*Ruby on Rails*] tutorial by [Chris Hinds](http://chrishinds.com/)
 
 This README would normally document whatever steps are necessary to get the
